@@ -4,6 +4,23 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- NuGet Package Properties -->
+    <PackageId>CacheKit</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Sweta Sharma</Authors>
+    <Company>Sweta Sharma</Company>
+    <Description>A simple and efficient in-memory caching library for .NET.</Description>
+    <PackageTags>cache, caching, in-memory, performance</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/your-username/cache-dotnet-sdk</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/your-username/cache-dotnet-sdk</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>

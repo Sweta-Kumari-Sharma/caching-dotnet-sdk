@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CacheKit</id>
+    <version>1.0.0</version>
+    <authors>Sweta Sharma</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/your-username/cache-dotnet-sdk</projectUrl>
+    <description>A simple and efficient in-memory caching library for .NET.</description>
+    <tags>cache, caching, in-memory, performance</tags>
+    <repository type="git" url="https://github.com/your-username/cache-dotnet-sdk" commit="cc91a9144fc8bbeec322e178be81cf64065fdb11" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/sweta.sharma/Desktop/Juspay/cache-dotnet-sdk/CacheKit/bin/Release/net9.0/CacheKit.dll" target="lib/net9.0/CacheKit.dll" />
+    <file src="/Users/sweta.sharma/Desktop/Juspay/cache-dotnet-sdk/README.md" target="/README.md" />
+  </files>
+</package>
