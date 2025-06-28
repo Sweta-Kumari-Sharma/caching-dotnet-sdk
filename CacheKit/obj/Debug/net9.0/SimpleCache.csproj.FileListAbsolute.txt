@@ -1,0 +1,11 @@
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/bin/Debug/net9.0/SimpleCache.deps.json
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/bin/Debug/net9.0/SimpleCache.dll
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/bin/Debug/net9.0/SimpleCache.pdb
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/SimpleCache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/SimpleCache.AssemblyInfoInputs.cache
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/SimpleCache.AssemblyInfo.cs
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/SimpleCache.csproj.CoreCompileInputs.cache
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/SimpleCache.dll
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/refint/SimpleCache.dll
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/SimpleCache.pdb
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/SimpleCache/obj/Debug/net9.0/ref/SimpleCache.dll

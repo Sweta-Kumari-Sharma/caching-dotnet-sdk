@@ -1,0 +1,11 @@
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/bin/Debug/net9.0/CacheKit.deps.json
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/bin/Debug/net9.0/CacheKit.dll
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/bin/Debug/net9.0/CacheKit.pdb
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/CacheKit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/CacheKit.AssemblyInfoInputs.cache
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/CacheKit.AssemblyInfo.cs
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/CacheKit.csproj.CoreCompileInputs.cache
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/CacheKit.dll
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/refint/CacheKit.dll
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/CacheKit.pdb
+/Users/sweta.sharma/Desktop/Juspay/nuget-test-sdk/CacheKit/obj/Debug/net9.0/ref/CacheKit.dll
